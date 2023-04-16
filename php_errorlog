@@ -1,0 +1,4 @@
+[16-Mar-2023 18:36:39 CST6CDT] PHP Fatal error:  Uncaught Error: Failed opening required '/home/customer/www/optimum.a10staffing.com/public_html/../vendor/autoload.php' (include_path='.:/usr/local/php82/pear') in /home/customer/www/optimum.a10staffing.com/public_html/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/optimum.a10staffing.com/public_html/index.php on line 34
